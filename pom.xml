@@ -4,6 +4,7 @@
   <artifactId>myspringboot</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
+  <name>myspringboot-jar</name>
   
   <parent>
 		<groupId>org.springframework.boot</groupId>
