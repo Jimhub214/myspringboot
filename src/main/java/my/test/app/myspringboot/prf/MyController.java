@@ -9,7 +9,7 @@ public class MyController {
 
 	@RequestMapping(path = "/hallo", method = RequestMethod.GET)
 	public String sayOk() {
-		return "ok";
+		return "ok von mytestbranch";
 	}
 
 }
